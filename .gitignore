@@ -1,0 +1,21 @@
+# dependencies
+node_modules
+
+# builds
+/web/.next
+/api/dist
+
+# env files
+.env
+.env.local
+.env.*.local
+
+# system
+.DS_Store
+
+# logs
+*.log
+
+# other lock files
+package-lock.json
+yarn.lock
